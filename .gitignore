@@ -1,0 +1,13 @@
+# Archivos temporales de Office
+~$*
+*.tmp
+
+# Archivos de sistema macOS
+.DS_Store
+
+# Instrucciones internas de Claude
+CLAUDE.md
+
+# Archivos de respaldo
+*.xlsx
+*.pptx
